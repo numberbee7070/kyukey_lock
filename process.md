@@ -1,3 +1,6 @@
+![process.png](/process.png)
+
+
 1. User initiates the lock
 
 2. Locks creates an MQTT connection with IoT Core service. Publishes and subscribes to respective topic.
